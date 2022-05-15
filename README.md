@@ -4,6 +4,8 @@
 * MetaMask integration
 * Hardhat integration with ethers.js
 
+> This project is derived from the super https://github.com/NomicFoundation/hardhat-hackathon-boilerplate
+
 ## Quick start
 
 The first things you need to do are cloning this repository and installing its
